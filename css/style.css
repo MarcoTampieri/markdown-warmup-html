@@ -1,0 +1,14 @@
+body{
+    background-image: url("image1.jpeg");
+}
+
+h1 {
+    text-align: center; 
+    color: rgb(197, 15, 15);
+    border-style: solid black;
+}
+
+h2 {
+    color: rgb(25, 187, 54);
+    border-style: solid black;
+}
