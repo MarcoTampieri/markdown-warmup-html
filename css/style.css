@@ -1,14 +1,17 @@
 body{
-    background-image: url("image1.jpeg");
+    background-color: #ecf8f8;
 }
 
 h1 {
     text-align: center; 
-    color: rgb(197, 15, 15);
-    border-style: solid black;
+    color: #b2967d;
+    border: solid black 2px;
 }
 
 h2 {
-    color: rgb(25, 187, 54);
-    border-style: solid black;
+    color: #e6beae;
+    border: solid black 2px;
+    border-radius: 3px;
+    width: 28%;
+    background-color: #8b85c1;
 }
